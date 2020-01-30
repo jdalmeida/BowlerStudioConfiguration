@@ -1,9 +1,21 @@
 {
+  "workspace": {},
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/e928fb058b35b4500264bfeabf234c5b.git:ParabolaTest.groovy": [
+      "https://gist.github.com/e928fb058b35b4500264bfeabf234c5b.git",
+      "ParabolaTest.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.3.1",
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "1.3.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.3.1"
   }
 }
