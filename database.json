@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/jdalmeida/BestTrophy.git": [
+      "jdalmeida/BestTrophy",
+      "1580397060029"
+    ],
     "https://gist.github.com/e928fb058b35b4500264bfeabf234c5b.git": [
       "GIST: parabola",
       "1580395399065"
