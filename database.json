@@ -14,6 +14,10 @@
     "https://github.com/jdalmeida/BestTrophy.git:CadGenerator.groovy": [
       "https://github.com/jdalmeida/BestTrophy.git",
       "CadGenerator.groovy"
+    ],
+    "https://github.com/jdalmeida/BestTrophy.git:GuitarMount.groovy": [
+      "https://github.com/jdalmeida/BestTrophy.git",
+      "GuitarMount.groovy"
     ]
   },
   "BowlerStudioConfigs": {
